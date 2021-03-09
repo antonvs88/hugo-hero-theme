@@ -1,11 +1,11 @@
 ---
-title: 'Hinnoitteluanalytiikka'
+title: 'Hintaoptimointi'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: false
 weight: 1
-heroHeading: 'Hinnoitteluanalytiikka'
+heroHeading: 'Hintaoptimointi'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
