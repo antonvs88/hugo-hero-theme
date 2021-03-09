@@ -1,17 +1,15 @@
 ---
-title: 'Competitor analysis'
+title: 'Verkkokaupan myynnin ennustus'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Competitor analysis'
+heroHeading: 'Verkkokaupan myynnin ennustus'
 heroSubHeading: 'Saving for retirement requires careful planning.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Ennustamme verkkokaupan tuotteiden myyntiä jotta kysyntä voidaan paremmin kohdata. Lisäksi voimme myös optimoida varaston kokoa kokonaistuoton maksimoimiseksi.
 
 ## Ne verba patulosque numen vix libet
 
