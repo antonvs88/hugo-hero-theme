@@ -10,7 +10,9 @@ heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
-Autamme liikkeenjohtoa saavuttamaan hinnoittelustrategian, joka optimoi yrityksen tuotot.
+Autamme liikkeenjohtoa saavuttamaan yrityksen tuotot optimoivan hinnoittelustrategian.
+
+
 
 ## Ne verba patulosque numen vix libet
 
