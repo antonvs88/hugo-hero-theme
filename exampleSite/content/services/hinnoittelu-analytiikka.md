@@ -10,7 +10,7 @@ heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
-Autamme liikkeenjohtoa saavuttamaan yrityksen tuotot optimoivan hinnoittelustrategian. Lorem ipsum dolores, lorem ipsum dolores, lorem ipsum dolores, lorem ipsum dolores, lorem ipsum dolores.
+Hyödyntäen myyntidataa rakennamme mallin asiakkaiden hintajoustolle, tämän avulla optimoimme tuotteiden hinnat tuoton maksimoimiseksi.
 
 
 
