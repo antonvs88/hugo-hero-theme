@@ -1,19 +1,16 @@
 ---
-title: 'Predictive modeling'
+title: 'Ennakoiva huolto'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
-weight: 4
-heroHeading: 'Predictive modeling'
+weight: 5
+heroHeading: 'Ennakoiva huolto'
 heroSubHeading: 'Preparing and filing your tax return'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Käyttäen moderneja koneoppimismenetelmiä on mahdollista huoltaa laitteita ennakkoivasti. Yhdistämällä toimiala-asiantuntijuutenne meidän koneoppimisekspertiisin kanssa autamme teitä siirtymään ennakoivaan huoltoon ja säästämään huoltoaikakatkoksista ja rikkouteissa laitteissa.
 
 - Nata perque
 - Et ferrugine laedam
