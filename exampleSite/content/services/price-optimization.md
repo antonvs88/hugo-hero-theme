@@ -1,18 +1,16 @@
 ---
-title: 'Price optimization'
+title: 'Hinnoitteluanalytiikka'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Price optimization'
+heroHeading: 'Hinnoitteluanalytiikka'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Autamme liikkeenjohtoa saavuttamaan hinnoittelustrategian, joka optimoi yrityksen tuotot.
 
 ## Ne verba patulosque numen vix libet
 
