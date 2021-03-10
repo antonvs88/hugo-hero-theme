@@ -9,7 +9,7 @@ heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Hyödyntäen laaja-alaista koneoppimis- sekä mallinnusosaamista tarjoamme myös asiakkaalle räätälöityjä ratkaisuja. Lorem ipsum dolores, lorem ipsum,
+Hyödyntäen laaja-alaista koneoppimis- sekä mallinnusosaamista tarjoamme myös asiakkaalle räätälöityjä ratkaisuja. Yhdessä mietitään kuinka yrityksenne voisi hyötyä analytiikasta.
 
 ## Inter pectore totidem
 
